@@ -1,0 +1,58 @@
+!<thin>
+//                                              1102      `
+src/vl53l5_k_module.o/
+src/vl53l5_k_ioctl_controls.o/
+src/vl53l5_k_gpio_utils.o/
+src/vl53l5_k_error_converter.o/
+src/vl53l5_k_range_wait_handler.o/
+src/vl53l5_k_range_rotation.o/
+bare_driver/api/src/vl53l5_api_core.o/
+bare_driver/api/src/vl53l5_api_power.o/
+bare_driver/api/src/vl53l5_api_ranging.o/
+bare_driver/api/src/vl53l5_api_range_decode.o/
+bare_driver/dci/src/vl53l5_core_decode.o/
+bare_driver/dci/src/vl53l5_calibration_decode.o/
+bare_driver/dci/src/vl53l5_dci_core.o/
+bare_driver/dci/src/vl53l5_dci_decode.o/
+bare_driver/dci/src/vl53l5_dci_helpers.o/
+bare_driver/dci/src/vl53l5_dci_ranging.o/
+bare_driver/dci/src/vl53l5_dci_utils.o/
+bare_driver/dci/src/vl53l5_decode_switch.o/
+bare_driver/dci/src/vl53l5_results_decode.o/
+bare_driver/common/src/vl53l5_checks.o/
+bare_driver/common/src/vl53l5_commands.o/
+bare_driver/common/src/vl53l5_error_handler.o/
+bare_driver/common/src/vl53l5_load_firmware.o/
+bare_driver/common/src/vl53l5_register_utils.o/
+bare_driver/common/src/vl53l5_rom_boot.o/
+platform/src/vl53l5_platform.o/
+platform/src/vl53l5_platform_init.o/
+platform/src/vl53l5_platform_log.o/
+/0              0           0     0     644     302144    `
+/23             0           0     0     644     254528    `
+/54             0           0     0     644     166744    `
+/81             0           0     0     644     148304    `
+/113            0           0     0     644     149912    `
+/148            0           0     0     644     17336     `
+/179            0           0     0     644     67936     `
+/218            0           0     0     644     25720     `
+/258            0           0     0     644     19800     `
+/300            0           0     0     644     18792     `
+/347            0           0     0     644     23224     `
+/389            0           0     0     644     49656     `
+/438            0           0     0     644     30440     `
+/477            0           0     0     644     25440     `
+/518            0           0     0     644     9448      `
+/560            0           0     0     644     28432     `
+/602            0           0     0     644     10928     `
+/642            0           0     0     644     19432     `
+/686            0           0     0     644     34288     `
+/731           /0           0     0     644     22712     `
+/771            0           0     0     644     21352     `
+/813            0           0     0     644     27128     `
+/860            0           0     0     644     41120     `
+/907            0           0     0     644     33600     `
+/955            0           0     0     644     21856     `
+/997            0           0     0     644     179984    `
+/1029           0           0     0     644     1128      `
+/1066           0           0     0     644     5096      `

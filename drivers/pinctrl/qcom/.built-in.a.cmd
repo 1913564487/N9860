@@ -1,0 +1,1 @@
+cmd_drivers/pinctrl/qcom/built-in.a :=  rm -f drivers/pinctrl/qcom/built-in.a; /home/hsy/clang3/aarch64/bin/aarch64-linux-android-ar rcSTPD drivers/pinctrl/qcom/built-in.a drivers/pinctrl/qcom/pinctrl-msm.o drivers/pinctrl/qcom/pinctrl-spmi-gpio.o drivers/pinctrl/qcom/pinctrl-spmi-mpp.o drivers/pinctrl/qcom/pinctrl-kona.o

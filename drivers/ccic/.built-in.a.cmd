@@ -1,0 +1,1 @@
+cmd_drivers/ccic/built-in.a :=  rm -f drivers/ccic/built-in.a; /home/hsy/clang3/aarch64/bin/aarch64-linux-android-ar rcSTPD drivers/ccic/built-in.a drivers/ccic/ccic_notifier.o drivers/ccic/ccic_sysfs.o drivers/ccic/ccic_core.o drivers/ccic/ccic_misc.o drivers/ccic/max77705_cc.o drivers/ccic/max77705_pd.o drivers/ccic/max77705_usbc.o drivers/ccic/max77705_alternate.o

@@ -1,0 +1,34 @@
+!<thin>
+//                                              288       `
+sec_battery.o/
+sec_battery_sysfs.o/
+sec_battery_dt.o/
+sec_adc.o/
+sec_step_charging.o/
+sec_cisd.o/
+sec_battery_misc.o/
+sec_direct_charger.o/
+battery_notifier.o/
+sec_pd.o/
+max77705_fuelgauge.o/
+max77705_charger.o/
+mfc_hal_charger.o/
+mfc_charger.o/
+mfc_s2miw04_charger.o/
+pca9468_charger.o/
+/0              0           0     0     644     1012928   `
+/15             0           0     0     644     434976    `
+/36             0           0     0     644     495064    `
+/54             0           0     0     644     229192    `
+/65             0           0     0     644     294416    `
+/86             0           0     0     644     312008    `
+/98             0           0     0     644     257200    `
+/118            0           0     0     644     379576    `
+/140            0           0     0     644     76304     `
+/160            0           0     0     644     10560     `
+/170            0           0     0     644     520640    `
+/192            0           0     0     644     508024    `
+/212            0           0     0     644     255736    `
+/231            0           0     0     644     864792    `
+/246            0           0     0     644     788872    `
+/269            0           0     0     644     588272    `

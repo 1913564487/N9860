@@ -1,0 +1,1 @@
+cmd_drivers/i3c/master/built-in.a :=  rm -f drivers/i3c/master/built-in.a; /home/hsy/clang3/aarch64/bin/aarch64-linux-android-ar rcSTPD drivers/i3c/master/built-in.a drivers/i3c/master/i3c-master-qcom-geni.o

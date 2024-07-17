@@ -1,0 +1,1 @@
+cmd_techpack/audio/ipc/built-in.a :=  rm -f techpack/audio/ipc/built-in.a; /home/hsy/clang3/aarch64/bin/aarch64-linux-android-ar rcSTPD techpack/audio/ipc/built-in.a techpack/audio/ipc/apr.o techpack/audio/ipc/apr_v2.o techpack/audio/ipc/apr_tal_rpmsg.o

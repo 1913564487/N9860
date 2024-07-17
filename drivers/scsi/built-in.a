@@ -1,0 +1,65 @@
+!<thin>
+//                                              448       `
+scsi.o/
+hosts.o/
+scsi_ioctl.o/
+scsicam.o/
+scsi_error.o/
+scsi_lib.o/
+constants.o/
+scsi_lib_dma.o/
+scsi_scan.o/
+scsi_sysfs.o/
+scsi_devinfo.o/
+scsi_sysctl.o/
+scsi_proc.o/
+scsi_debugfs.o/
+scsi_trace.o/
+scsi_logging.o/
+scsi_pm.o/
+scsi_common.o/
+ufs/ufs-qcom.o/
+ufs/ufshcd.o/
+ufs/ufs-sysfs.o/
+ufs/ufshcd-crypto.o/
+ufs/ufshcd-crypto-qti.o/
+ufs/ufsfeature.o/
+ufs/ufshpb.o/
+ufs/ufshcd-pltfrm.o/
+ufs/ufs-debugfs.o/
+ufs/ufs-qcom-debugfs.o/
+sd.o/
+sg.o/
+ch.o/
+
+/0              0           0     0     644     419760    `
+/8              0           0     0     644     246568    `
+/17             0           0     0     644     229824    `
+/31             0           0     0     644     180216    `
+/42             0           0     0     644     382976    `
+/56             0           0     0     644     571800    `
+/68             0           0     0     644     62792     `
+/81             0           0     0     644     191584    `
+/97             0           0     0     644     318752    `
+/110            0           0     0     644     399608    `
+/124            0           0     0     644     257480    `
+/140            0           0     0     644     161472    `
+/155            0           0     0     644     236344    `
+/168            0           0     0     644     181952    `
+/184            0           0     0     644     37976     `
+/198            0           0     0     644     287008    `
+/214            0           0     0     644     215608    `
+/225            0           0     0     644     25088     `
+/240            0           0     0     644     580096    `
+/256            0           0     0     644     1958120   `
+/270            0           0     0     644     755872    `
+/287           /0           0     0     644     287216    `
+/308            0           0     0     644     267424    `
+/333            0           0     0     644     295336    `
+/351            0           0     0     644     671272    `
+/365           /0           0     0     644     295072    `
+/386            0           0     0     644     339824    `
+/405            0           0     0     644     277928    `
+/429            0           0     0     644     527064    `
+/435            0           0     0     644     628072    `
+/441            0           0     0     644     324928    `

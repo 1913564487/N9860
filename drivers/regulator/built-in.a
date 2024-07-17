@@ -1,0 +1,38 @@
+!<thin>
+//                                              270       `
+core.o/
+dummy.o/
+fixed-helper.o/
+helpers.o/
+devres.o/
+of_regulator.o/
+fixed.o/
+proxy-consumer.o/
+qpnp-lcdb-regulator.o/
+qpnp-amoled-regulator.o/
+pmic_class.o/
+s2mpb02-regulator.o/
+s2mpb03.o/
+s2dos05.o/
+s2dos05_powermeter.o/
+refgen.o/
+rpmh-regulator.o/
+stub-regulator.o/
+/0              0           0     0     644     813240    `
+/8              0           0     0     644     180936    `
+/17             0           0     0     644     170096    `
+/33             0           0     0     644     114520    `
+/44             0           0     0     644     228576    `
+/54             0           0     0     644     235120    `
+/70             0           0     0     644     210736    `
+/79             0           0     0     644     86624     `
+/97             0           0     0     644     427520    `
+/120            0           0     0     644     227712    `
+/145            0           0     0     644     67888     `
+/159            0           0     0     644     247568    `
+/180            0           0     0     644     266280    `
+/191            0           0     0     644     329872    `
+/202            0           0     0     644     136352    `
+/224            0           0     0     644     216312    `
+/234            0           0     0     644     275776    `
+/252            0           0     0     644     202784    `

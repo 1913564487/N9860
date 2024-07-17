@@ -1,0 +1,38 @@
+!<thin>
+//                                              264       `
+br.o/
+br_device.o/
+br_fdb.o/
+br_forward.o/
+br_if.o/
+br_input.o/
+br_ioctl.o/
+br_stp.o/
+br_stp_bpdu.o/
+br_stp_if.o/
+br_stp_timer.o/
+br_netlink.o/
+br_netlink_tunnel.o/
+br_arp_nd_proxy.o/
+br_sysfs_if.o/
+br_sysfs_br.o/
+netfilter/ebtables.o/
+netfilter/ebtable_broute.o/
+/0              0           0     0     644     335824    `
+/6              0           0     0     644     356784    `
+/19             0           0     0     644     521192    `
+/29             0           0     0     644     346840    `
+/43             0           0     0     644     404272    `
+/52             0           0     0     644     350840    `
+/64             0           0     0     644     365056    `
+/76             0           0     0     644     357944    `
+/86             0           0     0     644     342456    `
+/101            0           0     0     644     342824    `
+/114            0           0     0     644     327704    `
+/130            0           0     0     644     455960    `
+/144            0           0     0     644     333912    `
+/165            0           0     0     644     351864    `
+/184            0           0     0     644     364352    `
+/199            0           0     0     644     371832    `
+/214            0           0     0     644     677992    `
+/236            0           0     0     644     307896    `

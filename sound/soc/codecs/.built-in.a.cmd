@@ -1,0 +1,1 @@
+cmd_sound/soc/codecs/built-in.a :=  rm -f sound/soc/codecs/built-in.a; /home/hsy/clang3/aarch64/bin/aarch64-linux-android-ar rcSTPD sound/soc/codecs/built-in.a sound/soc/codecs/cs35l41.o sound/soc/codecs/hdmi-codec.o sound/soc/codecs/wm_adsp.o

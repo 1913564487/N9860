@@ -1,0 +1,23 @@
+!<thin>
+//                                              316       `
+of_touchscreen.o/
+sec_ts/y79a_c/sec_ts.o/
+sec_ts/y79a_c/sec_ts_fw.o/
+sec_ts/y79a_c/sec_ts_fn.o/
+sec_ts/y79a_c/sec_ts_ioctl.o/
+synaptics_tcm/synaptics_tcm_i2c.o/
+synaptics_tcm/synaptics_tcm_core.o/
+synaptics_tcm/synaptics_tcm_touch.o/
+synaptics_tcm/synaptics_tcm_device.o/
+synaptics_tcm/synaptics_tcm_diagnostics.o/
+
+/0              0           0     0     644     152896    `
+/18             0           0     0     644     830984    `
+/42             0           0     0     644     344768    `
+/69             0           0     0     644     1117936   `
+/96             0           0     0     644     240760    `
+/126            0           0     0     644     197960    `
+/161            0           0     0     644     503072    `
+/197            0           0     0     644     277768    `
+/234            0           0     0     644     214520    `
+/272            0           0     0     644     198056    `

@@ -1,0 +1,87 @@
+!<thin>
+//                                              986       `
+input.o/
+input-compat.o/
+input-mt.o/
+ff-core.o/
+event_notify.o/
+sec_cmd.o/
+sec_tsp_log.o/
+sec_tclm_v2.o/
+sec_secure_touch.o/
+ff-memless.o/
+input-leds.o/
+evdev.o/
+input_booster.o/
+input_booster_qc.o/
+joystick/xpad.o/
+tablet/acecad.o/
+tablet/aiptek.o/
+tablet/gtco.o/
+tablet/hanwang.o/
+tablet/kbtab.o/
+touchscreen/of_touchscreen.o/
+touchscreen/sec_ts/y79a_c/sec_ts.o/
+touchscreen/sec_ts/y79a_c/sec_ts_fw.o/
+touchscreen/sec_ts/y79a_c/sec_ts_fn.o/
+touchscreen/sec_ts/y79a_c/sec_ts_ioctl.o/
+touchscreen/synaptics_tcm/synaptics_tcm_i2c.o/
+touchscreen/synaptics_tcm/synaptics_tcm_core.o/
+touchscreen/synaptics_tcm/synaptics_tcm_touch.o/
+touchscreen/synaptics_tcm/synaptics_tcm_device.o/
+touchscreen/synaptics_tcm/synaptics_tcm_diagnostics.o/
+keyboard/atkbd.o/
+keyboard/gpio_keys.o/
+keyboard/hall_ic.o/
+keyboard/certify_hall_ic.o/
+wacom/wacom_i2c.o/
+wacom/wacom_i2c_sec.o/
+wacom/wacom_i2c_elec.o/
+wacom/w9020_flash.o/
+misc/qpnp-power-on.o/
+misc/qti-haptics.o/
+misc/uinput.o/
+sec_tsp_dumpkey.o/
+
+/0              0           0     0     644     469264    `
+/9              0           0     0     644     151928    `
+/25             0           0     0     644     175352    `
+/37             0           0     0     644     156272    `
+/48             0           0     0     644     11096     `
+/64             0           0     0     644     191416    `
+/75             0           0     0     644     198440    `
+/90             0           0     0     644     189128    `
+/105            0           0     0     644     152576    `
+/125            0           0     0     644     172312    `
+/139            0           0     0     644     150608    `
+/153            0           0     0     644     402400    `
+/162           /0           0     0     644     298080    `
+/179            0           0     0     644     19512     `
+/199            0           0     0     644     291856    `
+/216            0           0     0     644     179872    `
+/233            0           0     0     644     295016    `
+/250            0           0     0     644     197088    `
+/265            0           0     0     644     194296    `
+/283            0           0     0     644     176336    `
+/299            0           0     0     644     152896    `
+/329            0           0     0     644     830984    `
+/365            0           0     0     644     344768    `
+/404            0           0     0     644     1117936   `
+/443            0           0     0     644     240760    `
+/485            0           0     0     644     197960    `
+/532            0           0     0     644     503072    `
+/580            0           0     0     644     277768    `
+/629            0           0     0     644     214520    `
+/679            0           0     0     644     198056    `
+/734            0           0     0     644     262752    `
+/752            0           0     0     644     263968    `
+/774            0           0     0     644     189272    `
+/794            0           0     0     644     188120    `
+/822            0           0     0     644     674752    `
+/841           /0           0     0     644     577184    `
+/864            0           0     0     644     221384    `
+/888            0           0     0     644     229032    `
+/909           /0           0     0     644     522064    `
+/931            0           0     0     644     413624    `
+/951            0           0     0     644     288176    `
+/966            0           0     0     644     16848     `

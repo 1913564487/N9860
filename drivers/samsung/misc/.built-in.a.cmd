@@ -1,0 +1,1 @@
+cmd_drivers/samsung/misc/built-in.a :=  rm -f drivers/samsung/misc/built-in.a; /home/hsy/clang3/aarch64/bin/aarch64-linux-android-ar rcSTPD drivers/samsung/misc/built-in.a drivers/samsung/misc/sec_misc.o drivers/samsung/misc/sec_smem.o drivers/samsung/misc/sec_argos.o

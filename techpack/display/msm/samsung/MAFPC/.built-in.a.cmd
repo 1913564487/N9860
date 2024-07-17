@@ -1,0 +1,1 @@
+cmd_techpack/display/msm/samsung/MAFPC/built-in.a :=  rm -f techpack/display/msm/samsung/MAFPC/built-in.a; /home/hsy/clang3/aarch64/bin/aarch64-linux-android-ar rcSTPD techpack/display/msm/samsung/MAFPC/built-in.a techpack/display/msm/samsung/MAFPC/ss_dsi_mafpc_HAB.o techpack/display/msm/samsung/MAFPC/ss_dsi_mafpc_HAC.o techpack/display/msm/samsung/MAFPC/ss_dsi_mafpc_XA1.o

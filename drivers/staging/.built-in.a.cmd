@@ -1,0 +1,1 @@
+cmd_drivers/staging/built-in.a :=  rm -f drivers/staging/built-in.a; /home/hsy/clang3/aarch64/bin/aarch64-linux-android-ar rcSTPD drivers/staging/built-in.a drivers/staging/media/built-in.a drivers/staging/iio/built-in.a drivers/staging/android/built-in.a drivers/staging/samsung/built-in.a drivers/staging/erofs/built-in.a drivers/staging/sti/built-in.a

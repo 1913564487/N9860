@@ -1,0 +1,15 @@
+!<thin>
+//                                              96        `
+pci-msm.o/
+pci-msm-msi.o/
+dwc/pcie-hisi.o/
+pci-thunder-ecam.o/
+pci-thunder-pem.o/
+pci-xgene.o/
+
+/0              0           0     0     644     1617488   `
+/11             0           0     0     644     176800    `
+/26             0           0     0     644     1112      `
+/43             0           0     0     644     1120      `
+/63             0           0     0     644     1120      `
+/82             0           0     0     644     1112      `

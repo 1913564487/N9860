@@ -1,0 +1,27 @@
+!<thin>
+//                                              432       `
+tsp_sec/y79a_c2_y2ub.bin.gen.o/
+tsp_sec/y79a_c2_6layer.bin.gen.o/
+tsp_sec/y79a_c2_4layer.bin.gen.o/
+epen/w9020_c2.bin.gen.o/
+epen/w9020_c2_dv1.bin.gen.o/
+epen/w9020_c2_dv2.bin.gen.o/
+mfc/mfc_fw_flash.bin.gen.o/
+mfc/mfc_fw_flash_s2miw04.bin.gen.o/
+range_sensor/vl53l5_c2.bin.gen.o/
+range_sensor/generic_xtalk_shape_c2_00.bin.gen.o/
+range_sensor/generic_xtalk_shape_c2_01.bin.gen.o/
+range_sensor/generic_xtalk_shape_c2_02.bin.gen.o/
+
+/0              0           0     0     644     203008    `
+/32             0           0     0     644     193376    `
+/66             0           0     0     644     211656    `
+/100            0           0     0     644     148816    `
+/125            0           0     0     644     148824    `
+/154            0           0     0     644     148824    `
+/183            0           0     0     644     17720     `
+/211            0           0     0     644     33688     `
+/247            0           0     0     644     112432    `
+/281            0           0     0     644     1728      `
+/331            0           0     0     644     1728      `
+/381            0           0     0     644     1728      `

@@ -1,0 +1,1 @@
+cmd_drivers/spmi/built-in.a :=  rm -f drivers/spmi/built-in.a; /home/hsy/clang3/aarch64/bin/aarch64-linux-android-ar rcSTPD drivers/spmi/built-in.a drivers/spmi/spmi.o drivers/spmi/spmi-pmic-arb.o drivers/spmi/spmi-pmic-arb-debug.o

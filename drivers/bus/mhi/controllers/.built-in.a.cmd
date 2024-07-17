@@ -1,0 +1,1 @@
+cmd_drivers/bus/mhi/controllers/built-in.a :=  rm -f drivers/bus/mhi/controllers/built-in.a; /home/hsy/clang3/aarch64/bin/aarch64-linux-android-ar rcSTPD drivers/bus/mhi/controllers/built-in.a drivers/bus/mhi/controllers/mhi_qcom.o drivers/bus/mhi/controllers/mhi_arch_qcom.o

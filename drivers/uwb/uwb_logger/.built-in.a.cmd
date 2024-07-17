@@ -1,0 +1,1 @@
+cmd_drivers/uwb/uwb_logger/built-in.a :=  rm -f drivers/uwb/uwb_logger/built-in.a; /home/hsy/clang3/aarch64/bin/aarch64-linux-android-ar rcSTPD drivers/uwb/uwb_logger/built-in.a drivers/uwb/uwb_logger/uwb_logger.o

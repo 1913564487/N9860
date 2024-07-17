@@ -1,0 +1,1 @@
+cmd_drivers/input/wacom/built-in.a :=  rm -f drivers/input/wacom/built-in.a; /home/hsy/clang3/aarch64/bin/aarch64-linux-android-ar rcSTPD drivers/input/wacom/built-in.a drivers/input/wacom/wacom_i2c.o drivers/input/wacom/wacom_i2c_sec.o drivers/input/wacom/wacom_i2c_elec.o drivers/input/wacom/w9020_flash.o

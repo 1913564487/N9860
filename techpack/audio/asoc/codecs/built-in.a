@@ -1,0 +1,43 @@
+!<thin>
+//                                              398       `
+bolero/bolero-cdc.o/
+bolero/bolero-cdc-utils.o/
+bolero/bolero-cdc-regmap.o/
+bolero/bolero-cdc-tables.o/
+bolero/bolero-clk-rsc.o/
+bolero/wsa-macro.o/
+bolero/va-macro.o/
+bolero/tx-macro.o/
+bolero/rx-macro.o/
+wcd9xxx-core-init.o/
+msm-cdc-pinctrl.o/
+msm-cdc-supply.o/
+wcd-clsh.o/
+wcdcal-hwdep.o/
+wcd9xxx-soc-init.o/
+wcd-dsp-utils.o/
+wcd-dsp-mgr.o/
+audio-ext-clk-up.o/
+msm_stub.o/
+msm_hdmi_codec_rx.o/
+
+/0              0           0     0     644     339400    `
+/21             0           0     0     644     205952    `
+/48             0           0     0     644     202880    `
+/76             0           0     0     644     7904      `
+/104            0           0     0     644     196752    `
+/129            0           0     0     644     449016    `
+/149            0           0     0     644     487912    `
+/168            0           0     0     644     522864    `
+/187            0           0     0     644     534496    `
+/206            0           0     0     644     102848    `
+/227            0           0     0     644     178208    `
+/246            0           0     0     644     151120    `
+/264            0           0     0     644     241736    `
+/276            0           0     0     644     221696    `
+/292            0           0     0     644     6712      `
+/312           /0           0     0     644     81624     `
+/329            0           0     0     644     227864    `
+/344            0           0     0     644     186472    `
+/364            0           0     0     644     199960    `
+/376            0           0     0     644     248952    `

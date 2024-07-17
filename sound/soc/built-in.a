@@ -1,0 +1,30 @@
+!<thin>
+//                                              230       `
+soc-core.o/
+soc-dapm.o/
+soc-jack.o/
+soc-utils.o/
+soc-pcm.o/
+soc-io.o/
+soc-devres.o/
+soc-ops.o/
+soc-compress.o/
+codecs/cs35l41.o/
+codecs/hdmi-codec.o/
+codecs/wm_adsp.o/
+samsung/sec_audio_sysfs.o/
+samsung/bigdata_cirrus_sysfs_cb.o/
+/0              0           0     0     644     757808    `
+/12             0           0     0     644     643936    `
+/24             0           0     0     644     298400    `
+/36             0           0     0     644     234352    `
+/49             0           0     0     644     431880    `
+/60             0           0     0     644     208288    `
+/70             0           0     0     644     200992    `
+/84             0           0     0     644     261872    `
+/95             0           0     0     644     248440    `
+/111            0           0     0     644     393680    `
+/129            0           0     0     644     253840    `
+/150            0           0     0     644     565328    `
+/168            0           0     0     644     174408    `
+/195            0           0     0     644     198672    `

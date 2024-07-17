@@ -1,0 +1,1 @@
+cmd_drivers/samsung/quest/built-in.a :=  rm -f drivers/samsung/quest/built-in.a; /home/hsy/clang3/aarch64/bin/aarch64-linux-android-ar rcSTPD drivers/samsung/quest/built-in.a drivers/samsung/quest/sec_quest.o drivers/samsung/quest/sec_quest_param.o

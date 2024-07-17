@@ -1,0 +1,87 @@
+!<thin>
+//                                              984       `
+codecs/bolero/bolero-cdc.o/
+codecs/bolero/bolero-cdc-utils.o/
+codecs/bolero/bolero-cdc-regmap.o/
+codecs/bolero/bolero-cdc-tables.o/
+codecs/bolero/bolero-clk-rsc.o/
+codecs/bolero/wsa-macro.o/
+codecs/bolero/va-macro.o/
+codecs/bolero/tx-macro.o/
+codecs/bolero/rx-macro.o/
+codecs/wcd9xxx-core-init.o/
+codecs/msm-cdc-pinctrl.o/
+codecs/msm-cdc-supply.o/
+codecs/wcd-clsh.o/
+codecs/wcdcal-hwdep.o/
+codecs/wcd9xxx-soc-init.o/
+codecs/wcd-dsp-utils.o/
+codecs/wcd-dsp-mgr.o/
+codecs/audio-ext-clk-up.o/
+codecs/msm_stub.o/
+codecs/msm_hdmi_codec_rx.o/
+msm-audio-effects-q6-v2.o/
+msm-compress-q6-v2.o/
+msm-dai-fe.o/
+msm-dai-q6-hdmi-v2.o/
+msm-dai-q6-v2.o/
+msm-dai-stub-v2.o/
+msm-lsm-client.o/
+msm-pcm-afe-v2.o/
+msm-pcm-dtmf-v2.o/
+msm-pcm-hostless.o/
+msm-pcm-host-voice-v2.o/
+msm-pcm-loopback-v2.o/
+msm-pcm-q6-noirq.o/
+msm-pcm-q6-v2.o/
+msm-pcm-routing-v2.o/
+msm-pcm-voice-v2.o/
+msm-pcm-voip-v2.o/
+msm-transcode-loopback-q6-v2.o/
+platform_init.o/
+msm-pcm-routing-devdep.o/
+msm-qti-pp-config.o/
+kona.o/
+
+/0              0           0     0     644     339400    `
+/28             0           0     0     644     205952    `
+/62             0           0     0     644     202880    `
+/97             0           0     0     644     7904      `
+/132            0           0     0     644     196752    `
+/164            0           0     0     644     449016    `
+/191            0           0     0     644     487912    `
+/217            0           0     0     644     522864    `
+/243            0           0     0     644     534496    `
+/269            0           0     0     644     102848    `
+/297            0           0     0     644     178208    `
+/323            0           0     0     644     151120    `
+/348            0           0     0     644     241736    `
+/367            0           0     0     644     221696    `
+/390            0           0     0     644     6712      `
+/417           /0           0     0     644     81624     `
+/441            0           0     0     644     227864    `
+/463            0           0     0     644     186472    `
+/490            0           0     0     644     199960    `
+/509            0           0     0     644     248952    `
+/537            0           0     0     644     187968    `
+/564            0           0     0     644     616864    `
+/586            0           0     0     644     269056    `
+/600            0           0     0     644     253376    `
+/622           /0           0     0     644     889200    `
+/639            0           0     0     644     213976    `
+/658            0           0     0     644     599160    `
+/676            0           0     0     644     282936    `
+/694            0           0     0     644     273496    `
+/713            0           0     0     644     199200    `
+/733            0           0     0     644     349256    `
+/758            0           0     0     644     327712    `
+/781            0           0     0     644     336320    `
+/801           /0           0     0     644     474272    `
+/818            0           0     0     644     2850880   `
+/840            0           0     0     644     260016    `
+/860            0           0     0     644     350288    `
+/879            0           0     0     644     317464    `
+/911           /0           0     0     644     10192     `
+/928            0           0     0     644     216280    `
+/954            0           0     0     644     350752    `
+/975            0           0     0     644     731992    `

@@ -1,0 +1,1 @@
+cmd_drivers/bluetooth/built-in.a :=  rm -f drivers/bluetooth/built-in.a; /home/hsy/clang3/aarch64/bin/aarch64-linux-android-ar rcSTPD drivers/bluetooth/built-in.a drivers/bluetooth/bcm4361.o drivers/bluetooth/bluesleep.o

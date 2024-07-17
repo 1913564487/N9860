@@ -1,0 +1,6 @@
+kernel/sound/soc/snd-soc-core.ko
+kernel/sound/soc/codecs/snd-soc-cs35l41.ko
+kernel/sound/soc/codecs/snd-soc-hdmi-codec.ko
+kernel/sound/soc/codecs/snd-soc-wm-adsp.ko
+kernel/sound/soc/samsung/sec_audio_sysfs.ko
+kernel/sound/soc/samsung/bigdata_cirrus_sysfs_cb.ko

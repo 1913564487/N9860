@@ -1,0 +1,2 @@
+kernel/drivers/sensors/sx9360.ko
+kernel/drivers/sensors/vl53l5/vl53l5.ko

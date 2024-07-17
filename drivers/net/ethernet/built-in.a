@@ -1,0 +1,47 @@
+!<thin>
+//                                              754       `
+cavium/common/cavium_ptp.o/
+marvell/sky2.o/
+qualcomm/rmnet/rmnet_data_pm_argos.o/
+qualcomm/rmnet/rmnet_config.o/
+qualcomm/rmnet/rmnet_vnd.o/
+qualcomm/rmnet/rmnet_handlers.o/
+qualcomm/rmnet/rmnet_map_data.o/
+qualcomm/rmnet/rmnet_map_command.o/
+qualcomm/rmnet/rmnet_descriptor.o/
+qualcomm/rmnet/rmnet_genl.o/
+qualcomm/rmnet/shs/rmnet_shs_config.o/
+qualcomm/rmnet/shs/rmnet_shs_main.o/
+qualcomm/rmnet/shs/rmnet_shs_wq.o/
+qualcomm/rmnet/shs/rmnet_shs_freq.o/
+qualcomm/rmnet/shs/rmnet_shs_wq_mem.o/
+qualcomm/rmnet/shs/rmnet_shs_wq_genl.o/
+qualcomm/rmnet/perf/rmnet_perf_config.o/
+qualcomm/rmnet/perf/rmnet_perf_core.o/
+qualcomm/rmnet/perf/rmnet_perf_opt.o/
+qualcomm/rmnet/perf/rmnet_perf_tcp_opt.o/
+qualcomm/rmnet/perf/rmnet_perf_udp_opt.o/
+smsc/smsc911x.o/
+
+/0              0           0     0     644     179336    `
+/28             0           0     0     644     1503768   `
+/44             0           0     0     644     279704    `
+/82             0           0     0     644     411144    `
+/113            0           0     0     644     278864    `
+/141            0           0     0     644     518016    `
+/174            0           0     0     644     452624    `
+/207            0           0     0     644     279944    `
+/243            0           0     0     644     460272    `
+/278            0           0     0     644     323152    `
+/307            0           0     0     644     284656    `
+/346            0           0     0     644     642488    `
+/383            0           0     0     644     630800    `
+/418            0           0     0     644     265560    `
+/455            0           0     0     644     303976    `
+/494            0           0     0     644     345808    `
+/534            0           0     0     644     281584    `
+/575            0           0     0     644     410480    `
+/614            0           0     0     644     369392    `
+/652            0           0     0     644     324000    `
+/694            0           0     0     644     314624    `
+/736            0           0     0     644     610152    `

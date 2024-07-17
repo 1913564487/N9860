@@ -1,0 +1,59 @@
+!<thin>
+//                                              1060      `
+hw_utils/cam_tasklet_util.o/
+hw_utils/cam_isp_packet_parser.o/
+hw_utils/irq_controller/cam_irq_controller.o/
+isp_hw/ife_csid_hw/cam_ife_csid_dev.o/
+isp_hw/ife_csid_hw/cam_ife_csid_soc.o/
+isp_hw/ife_csid_hw/cam_ife_csid_core.o/
+isp_hw/ife_csid_hw/cam_ife_csid17x.o/
+isp_hw/ife_csid_hw/cam_ife_csid_lite17x.o/
+isp_hw/vfe_hw/cam_vfe_soc.o/
+isp_hw/vfe_hw/cam_vfe_dev.o/
+isp_hw/vfe_hw/cam_vfe_core.o/
+isp_hw/vfe_hw/vfe_bus/cam_vfe_bus.o/
+isp_hw/vfe_hw/vfe_bus/cam_vfe_bus_ver2.o/
+isp_hw/vfe_hw/vfe_bus/cam_vfe_bus_rd_ver1.o/
+isp_hw/vfe_hw/vfe_bus/cam_vfe_bus_ver3.o/
+isp_hw/vfe_hw/vfe_top/cam_vfe_camif_lite_ver2.o/
+isp_hw/vfe_hw/vfe_top/cam_vfe_top.o/
+isp_hw/vfe_hw/vfe_top/cam_vfe_top_common.o/
+isp_hw/vfe_hw/vfe_top/cam_vfe_top_ver3.o/
+isp_hw/vfe_hw/vfe_top/cam_vfe_top_ver2.o/
+isp_hw/vfe_hw/vfe_top/cam_vfe_camif_ver2.o/
+isp_hw/vfe_hw/vfe_top/cam_vfe_camif_ver3.o/
+isp_hw/vfe_hw/vfe_top/cam_vfe_rdi.o/
+isp_hw/vfe_hw/vfe_top/cam_vfe_fe_ver1.o/
+isp_hw/vfe_hw/vfe_top/cam_vfe_camif_lite_ver3.o/
+isp_hw/vfe_hw/vfe17x/cam_vfe.o/
+cam_isp_hw_mgr.o/
+cam_ife_hw_mgr.o/
+
+/0              0           0     0     644     79784     `
+/29             0           0     0     644     200584    `
+/63             0           0     0     644     91976     `
+/109            0           0     0     644     157072    `
+/148            0           0     0     644     146688    `
+/187            0           0     0     644     384968    `
+/227            0           0     0     644     165688    `
+/265            0           0     0     644     158024    `
+/308            0           0     0     644     155656    `
+/337            0           0     0     644     145720    `
+/366            0           0     0     644     183392    `
+/396            0           0     0     644     128984    `
+/433            0           0     0     644     334864    `
+/475            0           0     0     644     206808    `
+/520            0           0     0     644     344320    `
+/562            0           0     0     644     195792    `
+/611            0           0     0     644     126984    `
+/648            0           0     0     644     146976    `
+/692            0           0     0     644     199000    `
+/734            0           0     0     644     193352    `
+/776            0           0     0     644     212472    `
+/820            0           0     0     644     248304    `
+/864            0           0     0     644     194296    `
+/901            0           0     0     644     181288    `
+/942            0           0     0     644     247032    `
+/991            0           0     0     644     202120    `
+/1023           0           0     0     644     122120    `
+/1041           0           0     0     644     640912    `

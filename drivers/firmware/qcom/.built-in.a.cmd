@@ -1,0 +1,1 @@
+cmd_drivers/firmware/qcom/built-in.a :=  rm -f drivers/firmware/qcom/built-in.a; /home/hsy/clang3/aarch64/bin/aarch64-linux-android-ar rcSTPD drivers/firmware/qcom/built-in.a drivers/firmware/qcom/tz_log.o

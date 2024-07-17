@@ -1,0 +1,1 @@
+cmd_drivers/motor/built-in.a :=  rm -f drivers/motor/built-in.a; /home/hsy/clang3/aarch64/bin/aarch64-linux-android-ar rcSTPD drivers/motor/built-in.a drivers/motor/timed_output.o drivers/motor/cs40l2x.o drivers/motor/cs40l2x-tables.o drivers/motor/vib_notifier.o

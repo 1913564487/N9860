@@ -1,0 +1,1 @@
+cmd_drivers/sensors/built-in.a :=  rm -f drivers/sensors/built-in.a; /home/hsy/clang3/aarch64/bin/aarch64-linux-android-ar rcSTPD drivers/sensors/built-in.a drivers/sensors/sensors_ssc.o drivers/sensors/sensors_core.o drivers/sensors/sx9360.o drivers/sensors/vl53l5/built-in.a

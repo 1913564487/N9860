@@ -1,0 +1,23 @@
+!<thin>
+//                                              150       `
+ufs-qcom.o/
+ufshcd.o/
+ufs-sysfs.o/
+ufshcd-crypto.o/
+ufshcd-crypto-qti.o/
+ufsfeature.o/
+ufshpb.o/
+ufshcd-pltfrm.o/
+ufs-debugfs.o/
+ufs-qcom-debugfs.o/
+
+/0              0           0     0     644     580096    `
+/12             0           0     0     644     1958120   `
+/22             0           0     0     644     755872    `
+/35            /0           0     0     644     287216    `
+/52             0           0     0     644     267424    `
+/73             0           0     0     644     295336    `
+/87             0           0     0     644     671272    `
+/97            /0           0     0     644     295072    `
+/114            0           0     0     644     339824    `
+/129            0           0     0     644     277928    `

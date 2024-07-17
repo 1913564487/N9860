@@ -1,0 +1,1 @@
+cmd_techpack/display/msm/samsung/S6E3HAC_AMB687VX01/built-in.a :=  rm -f techpack/display/msm/samsung/S6E3HAC_AMB687VX01/built-in.a; /home/hsy/clang3/aarch64/bin/aarch64-linux-android-ar rcSTPD techpack/display/msm/samsung/S6E3HAC_AMB687VX01/built-in.a techpack/display/msm/samsung/S6E3HAC_AMB687VX01/ss_dsi_panel_S6E3HAC_AMB687VX01.o

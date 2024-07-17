@@ -1,0 +1,17 @@
+!<thin>
+//                                              104       `
+devres.o/
+gpiolib.o/
+gpiolib-legacy.o/
+gpiolib-devprop.o/
+gpiolib-of.o/
+gpiolib-sysfs.o/
+sec-pinmux.o/
+
+/0              0           0     0     644     181592    `
+/10             0           0     0     644     787984    `
+/21             0           0     0     644     149808    `
+/39             0           0     0     644     140248    `
+/58             0           0     0     644     179776    `
+/72            /0           0     0     644     217368    `
+/89             0           0     0     644     150120    `
